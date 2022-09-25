@@ -1,6 +1,6 @@
 # FlexStack
 
-A flex layout  (like CSS flex) in SwiftUI with the new `Layout` protocol. Easy usages as `HStack` or `VStack`.
+A flex layout  (like CSS flex) in SwiftUI with the new `Layout` protocol. Easy as `HStack` or `VStack`.
 
 
 ## Basic Usage
